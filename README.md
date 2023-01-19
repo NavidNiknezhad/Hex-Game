@@ -14,8 +14,10 @@ The objective of this project is to write a computer program that allows human p
 
 This project provides a C++ code base that can be used to build the program. You may extend the base code but the game board must be in pure text mode as shown in the example below.
 
-[Imgur](https://imgur.com/UevgJNe)
+[Imgur](https://imgur.com/UevgJNe.jpg)
 [In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).]
+
+<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 
 
  1 2 3 4 5 6 7 8 
