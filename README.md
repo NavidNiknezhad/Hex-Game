@@ -14,7 +14,7 @@ The objective of this project is to write a computer program that allows human p
 
 This project provides a C++ code base that can be used to build the program. You may extend the base code but the game board must be in pure text mode as shown in the example below.
 
-![In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).](https://photos.google.com/share/AF1QipNC0KaT-pZ1B-4PkatjBAGGb6ge8BfxYsUJlTeCLIqulfrT40RpV7Ehh3r1S-q_yw/photo/AF1QipNbiDLHslWMQ0fHFnAXMdbMHlPD8WfAaFIcRNIS?key=MXp0Z1RRaTNhU1BDQWNGalFRSGFPbmZyb3gyNUh3)
+![In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).]([https://photos.google.com/share/AF1QipNC0KaT-pZ1B-4PkatjBAGGb6ge8BfxYsUJlTeCLIqulfrT40RpV7Ehh3r1S-q_yw/photo/AF1QipNbiDLHslWMQ0fHFnAXMdbMHlPD8WfAaFIcRNIS?key=MXp0Z1RRaTNhU1BDQWNGalFRSGFPbmZyb3gyNUh3](https://imgur.com/UevgJNe))
 
 
  1 2 3 4 5 6 7 8 
