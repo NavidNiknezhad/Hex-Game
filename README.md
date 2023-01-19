@@ -17,7 +17,7 @@ This project provides a C++ code base that can be used to build the program. You
 [Imgur](https://imgur.com/UevgJNe.jpg)
 [In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).]
 
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://imgur.com/UevgJNe.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 
 
  1 2 3 4 5 6 7 8 
