@@ -14,53 +14,20 @@ The objective of this project is to write a computer program that allows human p
 
 This project provides a C++ code base that can be used to build the program. You may extend the base code but the game board must be in pure text mode as shown in the example below.
 
-[Imgur](https://imgur.com/UevgJNe.jpg)
-[In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).]
+In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).
 
-<img src="https://imgur.com/UevgJNe.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-
-
- 1 2 3 4 5 6 7 8 
- ----------------------
-1 | | | | | | R | | |
-2 | | B | | | | | | |
-3 | | | | | B | | | |
-4 | | | | | | | | | |
-5 | | | | | | | | | |
-6 | | | R | | | | | |
-7 | | | | | | | | | |
-8 | | | | | | | | | |
- ----------------------
+<img src="https://imgur.com/UevgJNe.jpg" height="50%" width="50%" alt="RDP In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2)."/>
 
 ## Winning the game
 
 The following two figures show two examples of winning status. 
 
-![In this example, Red player wins.](https://photos.google.com/share/AF1QipNC0KaT-pZ1B-4PkatjBAGGb6ge8BfxYsUJlTeCLIqulfrT40RpV7Ehh3r1S-q_yw/photo/AF1QipOxF684JiQj6fTiX4be6nqltX-wmv7A03oHtVNn?key=MXp0Z1RRaTNhU1BDQWNGalFRSGFPbmZyb3gyNUh3)
-
- 1 2 3 4 5 6 7 8 
- --------------------------------
-1 | | R | | B | R | | | B |
- 2 | | R | | | R | R | B | B |
- 3 | B | R | R | B | B | | B | B |
- 4 | R | B | R | | B | | B | R |
- 5 | R | B | R | R | R | R | | |
- 6 | R | R | B | | R | | B | |
- 7 | B | B | R | | R |...
+In this example, Red player wins.
+<img src="https://imgur.com/NZ5Hen9.jpg" height="50%" width="50%" alt="In this example, Red player wins./>
 
 
-![In this example, Blue player wins.](https://photos.google.com/share/AF1QipNC0KaT-pZ1B-4PkatjBAGGb6ge8BfxYsUJlTeCLIqulfrT40RpV7Ehh3r1S-q_yw/photo/AF1QipO4muM_iEe1xZTTXtnnhRsExDvBdp3evkg7E1vG?key=MXp0Z1RRaTNhU1BDQWNGalFRSGFPbmZyb3gyNUh3)
-
- 1 2 3 4 5 6 7 8 
- --------------------------------
-1 | | | B | | B | | | B |
- 2 | | | B | | | B | B | B |
- 3 | B | B | B | B | B | | B | B |
- 4 | B | B | B | | B | | B | B |
- 5 | B | B | B | B | B | B | | |
- 6 | B | B | B | | B | | B | |
- 7 | B | B | B | | B |...
-
+In this example, Blue player wins.
+<img src="https://imgur.com/xV6Vi0S.jpg" height="50%" width="50%" alt="In this example, Blue player wins."/>
 
 
 ## Conclusion
