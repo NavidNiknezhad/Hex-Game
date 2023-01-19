@@ -56,6 +56,14 @@ In this example, Red player wins.
  6 | B | B | B | | B | | B | |
  7 | B | B | B | | B |...
 
+1 2 3 4 5 6 7 8
+1 | | | B | | B | | | B |
+2 | | | B | | | B | B | B |
+3 | B | B | B | B | B | | B | B |
+4 | B | B | B | | B | | B | B |
+5 | B | B | B | B | B | B | | |
+6 | B | B | B | | B | | B | |
+7 | B | B | B | | B |...
 
 In this example, Blue player wins.
 
