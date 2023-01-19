@@ -16,18 +16,18 @@ This project provides a C++ code base that can be used to build the program. You
 
 In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2).
 
-<img src="https://imgur.com/UevgJNe.jpg" height="50%" width="50%" alt="RDP In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2)."/>
+<img src="https://imgur.com/UevgJNe.jpg" height="25%" width="25%" alt="RDP In this example, Red player made two moves (6, 3) and (2,6) while Blue player made moves (4,5) and (3,2)."/>
 
 ## Winning the game
 
 The following two figures show two examples of winning status. 
 
 In this example, Red player wins.
-<img src="https://imgur.com/NZ5Hen9.jpg" height="50%" width="50%" alt="In this example, Red player wins./>
+<img src="https://imgur.com/NZ5Hen9.jpg" height="35%" width="35%" alt="In this example, Red player wins."/>
 
 
 In this example, Blue player wins.
-<img src="https://imgur.com/xV6Vi0S.jpg" height="50%" width="50%" alt="In this example, Blue player wins."/>
+<img src="https://imgur.com/xV6Vi0S.jpg" height="35%" width="35%" alt="In this example, Blue player wins."/>
 
 
 ## Conclusion
